@@ -1,0 +1,8 @@
+.menu__wrap {
+    position: fixed;
+}
+
+.menu__wrap .toggler {
+    height: 60px;
+    width: 60px;
+}
